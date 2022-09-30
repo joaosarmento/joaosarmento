@@ -1,22 +1,43 @@
-# 🧑🏻‍💻 Hello!! 🇧🇷
+## Hello! My name is João Sarmento.
 
-My name is João Sarmento!
+### 🧑🏻‍💻 &nbsp;I’m a Full Stack Software Engineer.  
 
-- 🤓 I’m currently a Full-Stack Dev student at <a href="https://www.driven.com.br/">Driven Education</a> and a Computer Engineering at <a href="https://www.ufrn.br//">Federal University of Rio Grande do Norte</a>. 
+- 🖥 ((In love with logic programming)).
 
-- 🖥 ((In love with logic programming))
+- 😄 Pronouns: He/His.
 
-- 😄 Pronouns: He/His
+- 🤓 Computer Engineering student at <a href="https://www.ufrn.br//">UFRN</a>.
 
-- 📫 You can contact me with the email: joaovicentesarm@gmail.com
+##
+<h3> 📚 &nbsp;My stack:</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="60" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="60" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="50"/>
+</div>
 
 
-## 📚 Here's my coding progress:
-[![Card showing contribution progress in GitHub](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joaosarm&theme=tokyonight)](#)
-[![Card showing my top languages by repo on a graph](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joaosarm&theme=tokyonight)](#)
-[![Card showing my top languages by commit on a graph](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joaosarm&theme=tokyonight)](#)
+### 📊 &nbsp;Here's my coding progress:
 
-<h3> 📱 Social Media</h3> 
-<a href="https://www.linkedin.com/in/joao-sarmento-da-silva/">
-    <img alt="LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
- </a> 
+ <div style="width:100%">
+    <a href="https://github.com/Joaosarm">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Joaosarm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosarm&layout=compact&langs_count=7&theme=tokyonight"/>
+    </a>
+  </div>
+
+##
+<h3> 📱 &nbsp;Contact me</h3> 
+<div>
+    <a href="https://www.linkedin.com/in/joao-v-sarmento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:joaovicentesarm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div> 
