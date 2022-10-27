@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: He/His.
 
-- 🤓 Computer Engineering student at <a href="https://www.ufrn.br//">UFRN</a>.
+- 🤓 Bachelor of Science and Technology and currently a Computer Engineering student at <a href="https://www.ufrn.br//">UFRN</a>.
 
 ##
 <h3> 📚 &nbsp;My stack:</h3>
