@@ -4,7 +4,7 @@
 
 - 🖥 ((In love with logic programming)).
 
-- 😄 Pronouns: He/His.
+- 😄 Pronouns: He/Him.
 
 - 🤓 Bachelor of Science and Technology and currently a Computer Engineering student at <a href="https://www.ufrn.br//">UFRN</a>.
 
