@@ -28,10 +28,10 @@
 
 ### 📊 &nbsp;Here's my coding progress:
 
- <div style="width:100%">
+ <div style="width:100%" align="center">
     <a href="https://github.com/Joaosarm">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Joaosarm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosarm&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Joaosarm&theme=tokyonight&custom_title=Github%20Stats&include_all_commits=true&count_private=true&show_icons=true"/>
+<!--     <img height="300em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosarm&theme=tokyonight&custom_title=Github%20Stats&include_all_commits=true&count_private=true&show_icons=true"/> -->
     </a>
   </div>
 
